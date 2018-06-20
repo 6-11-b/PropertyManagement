@@ -3,29 +3,29 @@ A Property Management Web Application
 
 Requirements
 
-    • Have instructor approval
+    • Have instructor approval (Needed to Proceed)
 
     • Be full stack
 
-        o Front end
+        o Front end (Using Handlebars)
 
-        o Back end
+        o Back end (Using Node.js Express)
 
-        o Database
+        o Database (Using MongoDB)
 
-    • Support CRUD operations on at least 2 resources
+    • Support CRUD operations on at least 2 resources (Two User Databases)
 
-    • Have at least 1 many-to-many relationship
+    • Have at least 1 many-to-many relationship (Between the Two User Databases)
 
-    • Use a front end framework
+    • Use a front end framework (Handlebars)
 
-    • Be styled
+    • Be styled (Using Bootstrap/Material Design)
 
-    • Be responsive (if a web app)
+    • Be responsive (if a web app) (Using Bootstrap)
 
-    • Exist in a Git repository
+    • Exist in a Git repository (Repository Created)
 
-    • Include user registration and login
+    • Include user registration and login (Two User Types)
 
 Functionality:
 
