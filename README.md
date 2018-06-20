@@ -7,11 +7,11 @@ Requirements
 
 • Be full stack
 
-  o Front end
-  
-  o Back end
-  
-  o Database
+    o Front end
+
+    o Back end
+
+    o Database
 
 • Support CRUD operations on at least 2 resources
 
@@ -28,10 +28,13 @@ Requirements
 • Include user registration and login
 
 Functionality:
+
   •	Property Owner(s) portal and authentication
+  
     o	Review/Resolve/Update Maintenance Request Tickets (MRTs)
     
   •	Resident(s) portal and authentication
+  
     o	Create/Review Maintenance Request Tickets (MRTs)
     
   •	Document and form storage (Lease agreements, check-in/out checklists, etc.)
@@ -41,6 +44,7 @@ Functionality:
   •	View available rental properties with ability to submit rental application
   
   •	STRETCH GOALS:
+  
     o	Website Billing for Property Owner(s) usage
     o	Reminder system (pay rent, unit inspection, electrical outage, etc.)
     o	Online Payment ability (PayPal and possibly others)
