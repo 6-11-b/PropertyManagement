@@ -6,8 +6,11 @@ Requirements
 • Have instructor approval
 
 • Be full stack
+
   o Front end
+  
   o Back end
+  
   o Database
 
 • Support CRUD operations on at least 2 resources
