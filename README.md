@@ -51,7 +51,7 @@ Functionality:
     o	Property NewsLetter to share with Tenants
 
 Key Technologies:
-  •	HTML, CSS, Material Design/Bootstrap, Javascript, MongoDB,
+HTML, CSS, Material Design/Bootstrap, Javascript, MongoDB,
   Express, Handlebars, Passport
   
   Tools:
