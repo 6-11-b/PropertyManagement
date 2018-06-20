@@ -3,26 +3,26 @@ A Property Management Web Application
 
 Requirements
 
-    •	Have instructor approval
-    
-    •	Be full stack
-        o	Front end
-        o	Back end
-        o	Database
-        
-    •	Support CRUD operations on at least 2 resources
-    
-    •	Have at least 1 many-to-many relationship
-    
-    •	Use a front end framework
-    
-    •	Be styled
-    
-    •	Be responsive (if a web app)
-    
-    •	Exist in a Git repository
-    
-    •	Include user registration and login
+• Have instructor approval
+
+• Be full stack
+    o Front end
+    o Back end
+    o Database
+
+• Support CRUD operations on at least 2 resources
+
+• Have at least 1 many-to-many relationship
+
+• Use a front end framework
+
+• Be styled
+
+• Be responsive (if a web app)
+
+• Exist in a Git repository
+
+• Include user registration and login
 
 Functionality:
   •	Property Owner(s) portal and authentication
