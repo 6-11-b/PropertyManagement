@@ -65,16 +65,23 @@ Tools:
   
 Project Roles:
   
-      •	Responsive Design: TBD
+      •	Website Features (Handlebars, Bootstrap, JavaScript, Material Design) : Jessica Brown
 
-      •	Database Architecture: TBD
+      •	Functionality - User Authentication (Property Owner Portal/Resident Portal): Jessica Brown
+      
+      •	Responisve Design (Bootstrap): Jessica Brown
 
-      •	Feature/Functionality: TBD
+      •	Document/Forms Archive: Tyler Safier
+             o	Rental Application
+             o	Lease Agreements
+             o	MRTs
+             o	Checklist    
 
-      •	Authentication: TBD
+      •	Database Architecture (MongoDB) with CRUD (Available and Leased Rental Properties): 
+             o	Property Owner User: Tyler Safier
+             o	Resident User: Jessica Brown
 
-      •	Security: TBD
-
-      •	Document/Forms archive: TBD
-
-      •	More Roles to Come
+      •	Security:Tyler Safier
+      
+      •	Web Deployment: Tyler Safier
+      
