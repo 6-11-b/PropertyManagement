@@ -56,8 +56,7 @@ Functionality:
 
 Key Technologies:
 
-  HTML, CSS, Material Design/Bootstrap, Javascript, MongoDB,
-  Express, Handlebars, Passport
+  HTML, CSS, Material Design/Bootstrap, Javascript, Node.js, npm, MongoDB, React
   
 Tools:
   
@@ -65,7 +64,7 @@ Tools:
   
 Project Roles:
   
-      •	Website Features (Handlebars, Bootstrap, JavaScript, Material Design) : Jessica Brown
+      •	Website Features (React, HTML, CSS, JavaScript, Node.js, npm, MongoDB) : Jessica Brown
 
       •	Functionality - User Authentication (Property Owner Portal/Resident Portal): Jessica Brown
       
