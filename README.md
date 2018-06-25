@@ -7,7 +7,7 @@ Requirements
 
     • Be full stack
 
-        o Front end (Using Handlebars)
+        o Front end (Using React)
 
         o Back end (Using Node.js Express)
 
@@ -17,7 +17,7 @@ Requirements
 
     • Have at least 1 many-to-many relationship (Between the Two User Databases)
 
-    • Use a front end framework (Handlebars)
+    • Use a front end framework (React)
 
     • Be styled (Using Bootstrap/Material Design)
 
