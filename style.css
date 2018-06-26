@@ -1,0 +1,28 @@
+body {
+    background-color: #7fffd4;
+}
+#name {
+    position: absolute;
+    right: 325px;
+    left: 600px;
+}
+.centerForm {
+    display: block;
+    position: absolute;
+    right: 325px;
+    left: 700px;
+    top: 100px;
+}
+#ownerProfile {
+    border: solid black;
+    border-radius: 10%;
+    background-color: #faebd7;
+    font-family: times;
+    height: 300px;
+    width: 500px;
+    position: absolute;
+    top: 400px;
+    bottom: 100px;
+    right: 300px;
+    left: 525px;
+ }
